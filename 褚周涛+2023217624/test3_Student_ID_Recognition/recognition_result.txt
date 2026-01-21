@@ -1,0 +1,7 @@
+学号识别结果
+============
+
+图片文件: C:\Write\py\Machine_Vision_Experiment\test3_Student_ID_Recognition\image.jpg
+识别学号: 2023217624
+学号位数: 10
+模型文件: C:\Write\py\Machine_Vision_Experiment\test3_Student_ID_Recognition\mnist_cnn_model.h5
