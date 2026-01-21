@@ -1,0 +1,12 @@
+{
+    "gaussian_kernel": 5,
+    "canny_low": 50,
+    "canny_high": 150,
+    "hough_rho": 1,
+    "hough_theta": 0.017453292519943295,
+    "hough_threshold": 15,
+    "min_line_length": 60,
+    "max_line_gap": 20,
+    "roi_top": 0.1,
+    "roi_bottom": 0.9
+}
